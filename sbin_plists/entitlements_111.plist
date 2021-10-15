@@ -1,0 +1,7 @@
+ersion="1.0">
+<dict>
+	<key>com.apple.private.bindfs-allow</key>
+	<true/>
+	<key>com.apple.private.iokit.system-nvram-allow</key>
+	<true/>
+	<key>com.apple.priva

@@ -1,0 +1,6 @@
+te.security.disk-device-access</key>
+	<true/>
+	<key>com.apple.security.iokit-user-client-class</key>
+	<string>AppleAPFSUserClient</string>
+</dict>
+</plist>
